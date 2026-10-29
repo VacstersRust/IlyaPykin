@@ -1,4 +1,4 @@
-/* Demo presentation using publicly displayed Wfolio image URLs; obtain photographer permission before publishing. */
+/* Preview: two verified-on-user-screenshot public Wfolio image URLs repeated instead of broken links. Requires rights clearance for publication. */
 window.SITE = {
   "name": "ИЛЬЯ ПЫКИН",
   "email": "",
@@ -21,17 +21,17 @@ window.SITE = {
       "alt": "Фотография из портфолио Ильи Пыкина — кадр 3"
     },
     "couple": {
-      "src": "https://i.wfolio.ru/x/cXPZPmu9lCw5tkRNat7JtyHjrPiZiclN/VJgIrluFLtZWGwzaT5FJ07DuSK__bTQA/uUx_ZHaTLuZBA9edkvhQ_sLup3n2aKy1/eC5uIgFRCTP-f2cI3-5tyjFnHBj1O9pA/letXfC3rKk9hC2CUDsvNTw.jpg",
+      "src": "https://i.wfolio.ru/x/cXPZPmu9lCw5tkRNat7JtyHjrPiZiclN/VJgIrluFLtZWGwzaT5FJ07DuSK__bTQA/z0CeY2VrzuRs_q97T8dx8TUzaxxmhMjv/mb5u3zttpsmwUAK-ssaGSAWAjdMV2plm/uvW8ZZy2VHIY3YHN_3UP1A.jpg",
       "fallback": "assets/img/couple.svg",
       "alt": "Фотография из портфолио Ильи Пыкина — кадр 4"
     },
     "city": {
-      "src": "https://i.wfolio.ru/x/cXPZPmu9lCw5tkRNat7JtyHjrPiZiclN/VJgIrluFLtZWGwzaT5FJ07DuSK__bTQA/HwH782mGwrwVHKiweSOWYo4OJu7HjV4q/Zq2T1cfmNJWAsCNuSuOJ9yDAaODoT-LC/1pyLVcSLAx8fILf9bpZ_Ng.jpg",
+      "src": "https://i.wfolio.ru/x/cXPZPmu9lCw5tkRNat7JtyHjrPiZiclN/VJgIrluFLtZWGwzaT5FJ07DuSK__bTQA/exMvlA1Uy6xaB_aT3LpmBkdFYSwgV0E7/aXjY4JBvJeAFXgRHH6pmbmlYNIlUGvbc/2LbfbUSPxLy3_jVAsa0j7g.jpg",
       "fallback": "assets/img/city.svg",
       "alt": "Фотография из портфолио Ильи Пыкина — кадр 5"
     },
     "detail": {
-      "src": "https://i.wfolio.ru/x/cXPZPmu9lCw5tkRNat7JtyHjrPiZiclN/VJgIrluFLtZWGwzaT5FJ07DuSK__bTQA/JPqa_nrFIYTlaLtzrOuHhml1EA_D8k92/3pg6jF6_ZOHZHl780xOpl1Trbfvfnp_A/gpFRJLm0fMHRXtLkw6Hidg.jpg",
+      "src": "https://i.wfolio.ru/x/cXPZPmu9lCw5tkRNat7JtyHjrPiZiclN/VJgIrluFLtZWGwzaT5FJ07DuSK__bTQA/exMvlA1Uy6xaB_aT3LpmBkdFYSwgV0E7/aXjY4JBvJeAFXgRHH6pmbmlYNIlUGvbc/2LbfbUSPxLy3_jVAsa0j7g.jpg",
       "fallback": "assets/img/detail.svg",
       "alt": "Фотография из портфолио Ильи Пыкина — кадр 6"
     },
@@ -41,12 +41,12 @@ window.SITE = {
       "alt": "Фотография из портфолио Ильи Пыкина — кадр 7"
     },
     "project1": {
-      "src": "https://i.wfolio.ru/x/cXPZPmu9lCw5tkRNat7JtyHjrPiZiclN/VJgIrluFLtZWGwzaT5FJ07DuSK__bTQA/uUx_ZHaTLuZBA9edkvhQ_sLup3n2aKy1/eC5uIgFRCTP-f2cI3-5tyjFnHBj1O9pA/letXfC3rKk9hC2CUDsvNTw.jpg",
+      "src": "https://i.wfolio.ru/x/cXPZPmu9lCw5tkRNat7JtyHjrPiZiclN/VJgIrluFLtZWGwzaT5FJ07DuSK__bTQA/z0CeY2VrzuRs_q97T8dx8TUzaxxmhMjv/mb5u3zttpsmwUAK-ssaGSAWAjdMV2plm/uvW8ZZy2VHIY3YHN_3UP1A.jpg",
       "fallback": "assets/img/project1.svg",
       "alt": "Фотография из портфолио Ильи Пыкина — кадр 8"
     },
     "project2": {
-      "src": "https://i.wfolio.ru/x/cXPZPmu9lCw5tkRNat7JtyHjrPiZiclN/VJgIrluFLtZWGwzaT5FJ07DuSK__bTQA/q8mf9LvzmH10osY-qUjrmymj9ElRjQSX/PAwJtfj5-hXZtg0legquC_oIgPdVrlAY/er_RmKoTi7frbjnlfMknLQ.jpg",
+      "src": "https://i.wfolio.ru/x/cXPZPmu9lCw5tkRNat7JtyHjrPiZiclN/VJgIrluFLtZWGwzaT5FJ07DuSK__bTQA/exMvlA1Uy6xaB_aT3LpmBkdFYSwgV0E7/aXjY4JBvJeAFXgRHH6pmbmlYNIlUGvbc/2LbfbUSPxLy3_jVAsa0j7g.jpg",
       "fallback": "assets/img/project2.svg",
       "alt": "Фотография из портфолио Ильи Пыкина — кадр 9"
     }
