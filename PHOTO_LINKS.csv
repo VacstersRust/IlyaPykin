@@ -1,0 +1,10 @@
+﻿key,direct_image_url,fallback,alt,replace_with
+hero,https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=1500&q=82,assets/img/hero.svg,01 / BEAUTY STUDY,assets/img/hero.webp
+portrait,https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1500&q=82,assets/img/portrait.svg,02 / PORTRAIT,assets/img/portrait.webp
+editorial,https://images.unsplash.com/photo-1531123897727-8f129e1688ce?auto=format&fit=crop&w=1500&q=82,assets/img/editorial.svg,03 / EDITORIAL,assets/img/editorial.webp
+couple,https://images.unsplash.com/photo-1519741497674-611481863552?auto=format&fit=crop&w=1500&q=82,assets/img/couple.svg,04 / LOVE STORY,assets/img/couple.webp
+city,https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1500&q=82,assets/img/city.svg,05 / CITY,assets/img/city.webp
+detail,https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1500&q=82,assets/img/detail.svg,06 / OBJECT,assets/img/detail.webp
+about,https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=1500&q=82,assets/img/about.svg,07 / ABOUT,assets/img/about.webp
+project1,https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1500&q=82,assets/img/project1.svg,08 / AFTER HOURS,assets/img/project1.webp
+project2,https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=1500&q=82,assets/img/project2.svg,09 / SILENCE,assets/img/project2.webp
